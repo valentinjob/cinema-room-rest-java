@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/build/
+/Cinema Room REST Service with Java/task/build/
